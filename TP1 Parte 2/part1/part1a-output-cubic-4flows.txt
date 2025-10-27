@@ -1,0 +1,11 @@
+[0/2] Re-checking globbed directories...
+[1/2] Building CXX object scratch/CMakeFiles/scratch_lab2-part1.dir/lab2-part1.cc.o
+[2/2] Linking CXX executable ../build/scratch/ns3.36.1-lab2-part1-default
+
+------ Lab 2 Part 1 Goodput (ns3::TcpCubic) ------
+Flow 0 (N0->N3): 1257060 bytes received, Goodput: 529288 bps
+Flow 1 (N0->N3): 1182600 bytes received, Goodput: 497937 bps
+Flow 2 (N0->N3): 2093640 bytes received, Goodput: 881533 bps
+Flow 3 (N0->N3): 2349140 bytes received, Goodput: 989112 bps
+Average Flow Goodput: 724467 bps
+----------------------------------------------------

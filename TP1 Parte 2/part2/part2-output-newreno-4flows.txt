@@ -1,0 +1,8 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+------ Lab 2 Part 2 Goodput (ns3::TcpNewReno, Run 0) ------
+Flows to dest1 (Short RTT): 2, Avg Goodput: 219768 bps
+Flows to dest2 (Long RTT): 2, Avg Goodput: 243743 bps
+PARSE_ME,ns3::TcpNewReno,4,0,219768,243743
+----------------------------------------------------

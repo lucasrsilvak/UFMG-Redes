@@ -1,0 +1,10 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+------ Lab 2 Part 1 Goodput (ns3::TcpNewReno) ------
+Flow 0 (N0->N3): 1004480 bytes received, Goodput: 422939 bps
+Flow 1 (N0->N3): 1093540 bytes received, Goodput: 460438 bps
+Flow 2 (N0->N3): 1160700 bytes received, Goodput: 488716 bps
+Flow 3 (N0->N3): 962140 bytes received, Goodput: 405112 bps
+Average Flow Goodput: 444301 bps
+----------------------------------------------------
